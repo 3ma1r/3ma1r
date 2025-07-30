@@ -1,5 +1,10 @@
-# 💫 Hi, Im Omair Al Falahi
-🎓 I'm a Computer Engineering student at National University (Oman), passionate about building impactful software solutions.<br>💻 Currently interning at Rihal, where I'm sharpening my skills in Java, APIs, and Git/GitHub workflows.<br>📱 I enjoy working on mobile apps using Flutter and exploring creative tech solutions.<br>🚀 I'm driven by a love for learning, especially in AI, data analysis, and turning ideas into products.<br>🧠 I’m always curious to learn new technologies and improve both my coding and problem-solving skills.
+<h3 align="left">✨ About Me</h3>
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" align="right" width="180" />
+
+🎓 I'm a **Computer Engineering student** at National University (Oman), passionate about building impactful software solutions.  
+💻 Currently interning at **Rihal**, where I'm sharpening my skills in **Java**, **APIs**, and **Git/GitHub workflows**.  
+📱 I enjoy working on **mobile apps using Flutter** and exploring creative tech solutions.  
+🧠 I’m always curious to learn new technologies and improve both my coding and problem-solving skills.
 
 
 ## 🌐 Socials:
