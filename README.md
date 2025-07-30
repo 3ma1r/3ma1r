@@ -1,4 +1,9 @@
-<h2 align="left">👋 Hello there, I'm Omair Al Falahi </h2>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=008B8B&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Omair+Alfalahi+👋🏼;Computer+Engineering+Student+👨🏻‍💻" alt="Typing SVG" />
+</p>
+
+
+
 <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif" align="right" width="210" />
 
 🎓 I'm a **Computer Engineering student** at National University (Oman), passionate about building impactful software solutions.  
