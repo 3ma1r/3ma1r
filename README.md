@@ -6,10 +6,11 @@
 
 <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif" align="right" width="210" />
 
-🎓 I'm a **Computer Engineering student** at National University (Oman), passionate about building impactful software solutions.  
-💻 Currently interning at **Rihal**, where I'm sharpening my skills in **Java**, **APIs**, and **Git/GitHub workflows**.  
-📱 I enjoy working on **mobile apps using Flutter** and exploring creative tech solutions.  
-🧠 I’m always curious to learn new technologies and improve both my coding and problem-solving skills.
+🎓 I'm a Computer Engineering student at National University (Oman), passionate about building impactful software solutions.
+💻 Skilled in HTML, CSS, JavaScript, TypeScript, ASP.NET, and Java, with strong experience in Git/GitHub workflows and API integration.
+🌐 Interested in frontend development with modern frameworks and creating user-friendly digital experiences.
+📱 Currently learning and exploring Flutter, aiming to strengthen my skills in mobile app development.
+🧠 Always curious to learn new technologies, strengthen my skills, and take on challenges that push me to grow.
 
 
 # 🌐 Socials:
