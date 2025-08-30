@@ -1,0 +1,30 @@
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"   # daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: 3ma1r
+          outputs: .tmp/snake.svg
+
+      - name: Move into assets
+        run: |
+          mkdir -p assets
+          mv .tmp/snake.svg assets/snake.svg
+
+      - name: Commit assets to main
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update snake.svg"
+          file_pattern: assets/snake.svg
