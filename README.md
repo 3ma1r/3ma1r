@@ -28,14 +28,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=3ma1r&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=3ma1r&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=3ma1r&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- Pac-Man contribution graph -->
-<img src="https://raw.githubusercontent.com/3ma1r/3ma1r/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only" alt="Pac-Man contribution graph" />
-<img src="https://raw.githubusercontent.com/3ma1r/3ma1r/output/pacman-contribution-graph.svg#gh-light-mode-only" alt="Pac-Man contribution graph" />
-
-### 
-
-<!-- Snake animation -->
-<img src="https://raw.githubusercontent.com/3ma1r/3ma1r/output/snake.svg" alt="Snake animation" />
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
