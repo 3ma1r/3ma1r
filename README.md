@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:001a1a,40:008B8B,100:00E5C0&height=260&section=header&text=Omair%20Alfalahi&fontSize=64&fontColor=ffffff&fontAlign=50&fontAlignY=42&animation=twinkling&stroke=00E5C0&strokeWidth=1&desc=Computer%20Engineering%20Student&descSize=22&descAlign=50&descAlignY=62" width="100%" alt="Omair Alfalahi" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=00E5C0&center=true&vCenter=true&width=900&height=50&lines=Hi%2C+I'm+Omair+%F0%9F%91%8B%F0%9F%8F%BC;Building+impactful+software+solutions;Crafting+user-friendly+digital+experiences;Currently+exploring+Flutter+%F0%9F%93%B1;Always+curious.+Always+growing." alt="typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=00E5C0&center=true&vCenter=true&width=900&height=50&lines=Hi%2C+I'm+Omair;Building+impactful+software+solutions;Crafting+user-friendly+digital+experiences;Always+curious.+Always+growing." alt="typing" />
 
 <br>
 
@@ -16,7 +16,7 @@
 <br>
 
 <!-- ═════════════════════ ABOUT ═════════════════════ -->
-## 👋🏼 About Me
+## About Me
 
 <table>
   <tr>
@@ -44,7 +44,7 @@
 </table>
 
 <!-- ═════════════════════ TECH STACK ═════════════════════ -->
-## 🛠️ Tech Stack
+## Tech Stack
 
 <table>
   <tr>
@@ -69,41 +69,41 @@
 </table>
 
 <!-- ═════════════════════ PROJECTS ═════════════════════ -->
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4><code>01</code> &nbsp;🪙 Oman Gold Tracker</h4>
+      <h4><code>01</code> &nbsp;Oman Gold Tracker</h4>
       <p>Making gold prices and calculations clearer in Oman, with a bilingual interface and live charts.</p>
       <p><img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" /> <img src="https://img.shields.io/badge/Charts-008B8B?style=flat-square" alt="Charts" /> <img src="https://img.shields.io/badge/Bilingual%20UI-00B3B3?style=flat-square" alt="Bilingual UI" /> <img src="https://img.shields.io/badge/Dark%20%2F%20Light-2b2b2b?style=flat-square" alt="Dark / Light" /></p>
-      <p><a href="https://github.com/3ma1r/oman-gold-tracker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=3ma1r&repo=oman-gold-tracker&theme=tokyonight&title_color=00E5C0&icon_color=00E5C0&bg_color=0d1117&border_color=1f2a33" alt="oman-gold-tracker" /></a></p>
+      <p><a href="https://github.com/3ma1r/oman-gold-tracker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=3ma1r&repo=oman-gold-tracker&theme=tokyonight&title_color=B392F0&icon_color=7AA2F7&text_color=C9D1D9&bg_color=0d1117&border_color=1f2a33" alt="oman-gold-tracker" /></a></p>
     </td>
     <td width="50%" valign="top">
-      <h4><code>02</code> &nbsp;🏝️ Visit Oman</h4>
+      <h4><code>02</code> &nbsp;Visit Oman</h4>
       <p>A data-driven tourism experience for discovering Oman and planning a trip.</p>
       <p><img src="https://img.shields.io/badge/SSR-008B8B?style=flat-square" alt="SSR" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Discovery-00B3B3?style=flat-square" alt="Discovery" /> <img src="https://img.shields.io/badge/Trip%20Planning-2b2b2b?style=flat-square" alt="Trip Planning" /></p>
-      <p><a href="https://github.com/3ma1r/codestacker-frontend-visit-oman"><img src="https://github-readme-stats.vercel.app/api/pin/?username=3ma1r&repo=codestacker-frontend-visit-oman&theme=tokyonight&title_color=00E5C0&icon_color=00E5C0&bg_color=0d1117&border_color=1f2a33" alt="codestacker-frontend-visit-oman" /></a></p>
+      <p><a href="https://github.com/3ma1r/codestacker-frontend-visit-oman"><img src="https://github-readme-stats.vercel.app/api/pin/?username=3ma1r&repo=codestacker-frontend-visit-oman&theme=tokyonight&title_color=B392F0&icon_color=7AA2F7&text_color=C9D1D9&bg_color=0d1117&border_color=1f2a33" alt="codestacker-frontend-visit-oman" /></a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4><code>03</code> &nbsp;🩺 CareLink</h4>
+      <h4><code>03</code> &nbsp;CareLink</h4>
       <p>My care-focused capstone project, built around solving a real problem with human-centered design.</p>
       <p><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Problem%20Solving-008B8B?style=flat-square" alt="Problem Solving" /> <img src="https://img.shields.io/badge/Human-Centered%20Design-00B3B3?style=flat-square" alt="Human-Centered Design" /> <img src="https://img.shields.io/badge/Capstone-2b2b2b?style=flat-square" alt="Capstone" /></p>
-      <p><a href="https://github.com/3ma1r/CareLink"><img src="https://github-readme-stats.vercel.app/api/pin/?username=3ma1r&repo=CareLink&theme=tokyonight&title_color=00E5C0&icon_color=00E5C0&bg_color=0d1117&border_color=1f2a33" alt="CareLink" /></a></p>
+      <p><a href="https://github.com/3ma1r/CareLink"><img src="https://github-readme-stats.vercel.app/api/pin/?username=3ma1r&repo=CareLink&theme=tokyonight&title_color=B392F0&icon_color=7AA2F7&text_color=C9D1D9&bg_color=0d1117&border_color=1f2a33" alt="CareLink" /></a></p>
     </td>
     <td width="50%" valign="top">
-      <h4><code>04</code> &nbsp;🔴 Marswalk</h4>
+      <h4><code>04</code> &nbsp;Marswalk</h4>
       <p>A Mars surface-expedition planner built by team <b>Neon Genesis</b> for the NASA Space Apps Challenge.</p>
       <p><img src="https://img.shields.io/badge/NASA%20Space%20Apps%202026-0B3D91?style=flat-square&logo=nasa&logoColor=white" alt="NASA Space Apps 2026" /> <img src="https://img.shields.io/badge/Team%20Neon%20Genesis-008B8B?style=flat-square" alt="Team Neon Genesis" /> <img src="https://img.shields.io/badge/Mars%20Expedition%20Planner-B5472B?style=flat-square" alt="Mars Expedition Planner" /></p>
-      <p><a href="https://github.com/3ma1r/NeonGenesis-marswalk-NASA2026"><img src="https://github-readme-stats.vercel.app/api/pin/?username=3ma1r&repo=NeonGenesis-marswalk-NASA2026&theme=tokyonight&title_color=00E5C0&icon_color=00E5C0&bg_color=0d1117&border_color=1f2a33" alt="NeonGenesis-marswalk-NASA2026" /></a></p>
+      <p><a href="https://github.com/3ma1r/NeonGenesis-marswalk-NASA2026"><img src="https://github-readme-stats.vercel.app/api/pin/?username=3ma1r&repo=NeonGenesis-marswalk-NASA2026&theme=tokyonight&title_color=B392F0&icon_color=7AA2F7&text_color=C9D1D9&bg_color=0d1117&border_color=1f2a33" alt="NeonGenesis-marswalk-NASA2026" /></a></p>
     </td>
   </tr>
 </table>
 
 <!-- ═════════════════════ STATS ═════════════════════ -->
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -116,16 +116,17 @@
 
 </div>
 
-## 🏆 GitHub Trophies
+## Profile Summary
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=3ma1r&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3ma1r&theme=tokyonight" alt="profile details" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=3ma1r&theme=tokyonight" alt="repos per language" />
 
 </div>
 
 <!-- ═════════════════════ CONNECT ═════════════════════ -->
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
